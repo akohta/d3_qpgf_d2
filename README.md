@@ -32,6 +32,6 @@ Please see src/d3_qpgf_d2.h for detail of functions, src/example.c for detail of
 27
 2. Beylkin, Gregory, Christopher Kurcz, and Lucas Monzón. "Fast algorithms for Helmholtz Green's functions." Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 464.2100 (2008): 3301-3326.
 28
-3. Abramowitz, Milton, Irene A. Stegun, and Robert H. Romer. "Handbook of mathematical functions with formulas, graphs, and mathematical tables." (1988): 958-958.
+3. Abramowitz, Milton, Irene A. Stegun, and Robert H. Romer. "Handbook of mathematical functions with formulas, graphs, and mathematical tables." (1988).
 29
 4. Faddeeva Package. http://ab-initio.mit.edu/Faddeeva
