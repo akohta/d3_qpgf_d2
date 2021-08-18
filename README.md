@@ -23,9 +23,9 @@ This program is used my original method.
   
 ## Usage of example code
 1. type 'make' command to compile
-2. type './example.out' to run  
+2. type './example1.out', './example2.out' to run  
 
-Please see src/d3_qpgf_d2.h for detail of functions, src/example.c for detail of function usages.
+Please see src/d3_qpgf_d2.h for detail of functions, src/example1.c and src/example2.c for detail of function usages.
 
 ## References
 1. Capolino, Filippo, Donald R. Wilton, and William A. Johnson. "Efficient computation of the 2-D Green's function for 1-D periodic structures using the Ewald method." IEEE Transactions on Antennas and Propagation 53.9 (2005): 2977-2984.  
